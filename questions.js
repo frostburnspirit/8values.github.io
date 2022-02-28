@@ -1,11 +1,11 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "This is a test. This is just a test.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": -5,
-            "scty": 0
+            "econ": 100,
+            "dipl": 10,
+            "govt": -50,
+            "scty": 110
         }
     },
     {
